@@ -57,3 +57,9 @@ header {
 footer {
   background-color: dimgray;
 }
+
+.left p,
+.left a {
+  display: inline;
+  text-align: left;
+}
