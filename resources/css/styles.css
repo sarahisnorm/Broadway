@@ -3,6 +3,7 @@ h2,
 h3,
 p,
 a,
+ul,
 img {
   font-family: "Helvetica", sans-serif;
   text-align: center;
@@ -33,14 +34,18 @@ a {
 }
 
 header {
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("resources/images/the-flatiron-building.png")
   display: block;
   padding-top: 25px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .banner {
   color: white;
-  background-image:url("./resources/images/the-flatiron-building.png");
+  background-image:url("resources/images/the-flatiron-building.png");
   display: block;
   padding-top: 3px;
 }
