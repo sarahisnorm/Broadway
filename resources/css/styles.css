@@ -36,7 +36,7 @@ a {
 }
 
 header {
-  background-image: url("resources/images/the-flatiron-building.png")
+  background-image: url("../images/the-flatiron-building.png");
   padding-top: 25px;
 }
 
@@ -50,7 +50,7 @@ header {
 }
 .banner {
   color: white;
-  background-image:url("resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   padding-top: 3px;
 }
 
